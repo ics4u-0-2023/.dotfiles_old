@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Created by: Mr Coxall
+# Created on: Sept 2020
+# AWS Debian Linux .dotfiles and setup script
 
 sudo apt update
 sudo apt upgrade -y
