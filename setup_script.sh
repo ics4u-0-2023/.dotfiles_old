@@ -6,6 +6,7 @@ sudo apt upgrade -y
 # common programs
 sudo apt remove w3m -y
 sudo apt install gh -y
+sudo apt install stow -y
 
 # install NeoVim from source
 mkdir temp
